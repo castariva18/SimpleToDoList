@@ -1,4 +1,4 @@
-package org.ganymede.simpletotoList;
+package org.ganymede.simpletotoList.Model;
 
 public class ToDo {
     private String id,title,description,timeline, status;
